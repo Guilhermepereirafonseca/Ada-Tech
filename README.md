@@ -21,3 +21,11 @@ Aprendizado:
   - a
   - span
   - div
+  - figure
+  - figcaption
+  - input
+  - main
+  - header
+  - table
+  - aside
+  - footer
