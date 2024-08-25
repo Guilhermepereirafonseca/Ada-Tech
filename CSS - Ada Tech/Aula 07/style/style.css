@@ -1,0 +1,21 @@
+table {
+    font-size: 2.4rem;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 3px solid black;
+    text-align: center;
+}
+
+table tr:first-child {
+    background-color: blue;
+    color: white;
+    font-weight: 800;
+}
+
+table tr:nth-child(2n) { /* n sempre começa no 0 */
+    background-color: steelblue;
+    color: white;
+    font-weight: 450;
+}
